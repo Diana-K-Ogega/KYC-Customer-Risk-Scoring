@@ -2,9 +2,9 @@
 
 **Skills Demonstrated**
 
-Domain Expertise: Anti-Money Laundering (AML), Know Your Customer (KYC), Enhanced Due Diligence (EDD), PEP/Sanctions Screening.
-Technical Skills: SQL (Data Transformation & CASE logic), Excel (Conditional Formatting, Nested IF Functions, Data Validation).
-Data Visualization: Designing executive-ready compliance reports.
+Domain Expertise: Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
+Technical Skills: **SQL** (Data Transformation & CASE logic), **Excel** (Conditional Formatting, Nested IF Functions, Data Validation).
+Data Visualisation: Designing executive-ready compliance reports.
 
 **Schema (SQLite v3.46)**
 
