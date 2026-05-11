@@ -7,10 +7,16 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 **Skills Demonstrated**
 
 **Domain Expertise:** Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
-
 **Technical Skills:** **SQL** (Data Transformation & CASE logic), **Excel** (Conditional Formatting, Nested IF Functions, Data Validation).
-
 **Data Visualisation:** Designing executive-ready compliance reports.
+
+**Key Features**
+
+**Automated Risk Tiering:** Instantly classifies customers into **High,** **Medium,** or **Low** risk.
+**Weighted Scoring Logic:** Not all risks are equal; this model weights "Country Risk" differently than "Product Risk."
+**EDD Trigger System:** Visual alerts (Red Flags) that notify the user when **Enhanced Due Diligence** is legally required.
+**Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
+
 
 **Schema (SQLite v3.46)**
 
