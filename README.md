@@ -26,11 +26,19 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 To speed up the investigative workflow within the tool:
 
-Ctrl + Shift + L: Quickly filter the risk output table.
+**Ctrl + Shift + L:** Quickly filter the risk output table.
 
-Alt + A + C: Clear all filters to see the full customer population.
+**Alt + A + C:** Clear all filters to see the full customer population.
 
-F2: Audit the underlying scoring formula in any cell.
+**F2:** Audit the underlying scoring formula in any cell.
+
+**The Development Process**
+
+**Schema Design:** Defined the risk pillars (Geography, Customer Type, Product).
+
+**Logic Implementation:** Wrote CASE statements in SQL to assign numerical values to qualitative data.
+
+**Front-End Mapping:** Exported SQL results and built a VLOOKUP-driven dashboard in Excel for non-technical users.
 
 **Schema (SQLite v3.46)**
 
