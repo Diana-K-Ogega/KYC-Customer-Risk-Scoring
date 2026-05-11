@@ -22,6 +22,15 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 **Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
 
+**4. Keyboard Shortcuts (Excel Utility)**
+
+To speed up the investigative workflow within the tool:
+
+Ctrl + Shift + L: Quickly filter the risk output table.
+
+Alt + A + C: Clear all filters to see the full customer population.
+
+F2: Audit the underlying scoring formula in any cell.
 
 **Schema (SQLite v3.46)**
 
