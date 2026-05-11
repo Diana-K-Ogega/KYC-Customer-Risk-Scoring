@@ -1,12 +1,12 @@
 # KYC-Customer-Risk-Scoring
 
-**1. Introduction**
+## 1. Introduction
 
 In financial crime compliance, manual risk scoring often leads to inconsistent outcomes and "discretionary bias." This project addresses those vulnerabilities by codifying a **Risk-Based Approach (RBA)** directly into a technical framework. The model utilises **automated scoring logic** to evaluate customer profiles against fixed risk pillars, including **PEP status, Jurisdictional Risk,** and **Adverse Media.** By shifting the calculation from manual spreadsheets to a **SQL-driven engine,** the system ensures 100% computational consistency. This creates a reliable audit trail and ensures that **Enhanced Due Diligence (EDD)** triggers are based on objective data thresholds rather than subjective interpretation.
 
 
 
-**2. Skills Demonstrated**
+## 2. Skills Demonstrated
 
 * **Domain Expertise:** Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
 
@@ -16,7 +16,7 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 
 
-**3. Key Features**
+## 3. Key Features
 
 * **Automated Risk Tiering:** Instantly classifies customers into **High,** **Medium,** or **Low** risk.
 
@@ -28,7 +28,7 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 
 
-**4. Keyboard Shortcuts (Excel Utility)**
+## 4. Keyboard Shortcuts (Excel Utility)
 
 To speed up the investigative workflow within the tool:
 
@@ -40,7 +40,7 @@ To speed up the investigative workflow within the tool:
 
 
 
-**5. The Development Process**
+## 5. The Development Process
 
 * **Schema Design:** Defined the risk pillars (Geography, Customer Type, Product).
 
@@ -59,7 +59,7 @@ To speed up the investigative workflow within the tool:
 **Figure 2: Automated Risk Tiering Output**
 
 
-**6. Professional Insights (What I Learned)**
+## 6. Professional Insights (What I Learned)
 
 
 * **Logic over Syntax:** While the SQL code is vital, the most important part was ensuring the logic aligned with global AML standards (FATF).
@@ -67,7 +67,7 @@ To speed up the investigative workflow within the tool:
 * **User-Centric Design:** I learned that data is useless if an investigator cannot interact with it; hence the need for the Excel UI.
 
 
-**7. Roadmap for Enhancement (Future Improvements)**
+## 7. Roadmap for Enhancement (Future Improvements)
 
 
 * **Automation:** Integrating a Python script to scrape "Adverse Media" and feed it into the score.
@@ -77,7 +77,7 @@ To speed up the investigative workflow within the tool:
 * **Machine Learning:** Implementing anomaly detection to find "hidden" risk patterns that simple weighting might miss.
 
 
-**8. Running the Project**
+## 8. Running the Project
 
 1. **Clone this repository** to your desktop using:
 git clone https://github.com/Diana-K-Ogega/Automated-KYC-Risk-Scoring-Model.git
