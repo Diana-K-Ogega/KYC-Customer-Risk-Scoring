@@ -40,6 +40,8 @@ To speed up the investigative workflow within the tool:
 
 **Front-End Mapping:** Exported SQL results and built a VLOOKUP-driven dashboard in Excel for non-technical users.
 
+![SQL Logic](./sql-logic.png)
+
 **Schema (SQLite v3.46)**
 
     CREATE TABLE customers (
