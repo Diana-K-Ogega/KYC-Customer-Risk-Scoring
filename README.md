@@ -1,5 +1,9 @@
 # KYC-Customer-Risk-Scoring
 
+**Introduction**
+
+Traditional risk scoring is often slow and prone to human error. This project digitizes the Risk-Based Approach (RBA) by codifying compliance rules into a SQL engine. By replacing manual spreadsheets with automated logic, the model ensures that every customer—from PEPs to those in high-risk jurisdictions—is scored with 100% consistency. This system provides a bridge between raw data and final investigative decisions, ensuring that Enhanced Due Diligence (EDD) is triggered exactly when the law requires it.
+
 **Skills Demonstrated**
 
 **Domain Expertise:** Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
