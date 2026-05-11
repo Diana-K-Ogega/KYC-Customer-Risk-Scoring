@@ -67,7 +67,7 @@ To speed up the investigative workflow within the tool:
 * **User-Centric Design:** I learned that data is useless if an investigator cannot interact with it; hence the need for the Excel UI.
 
 
-**Roadmap for Enhancement (Future Improvements)**
+**7. Roadmap for Enhancement (Future Improvements)**
 
 
 * **Automation:** Integrating a Python script to scrape "Adverse Media" and feed it into the score.
@@ -77,7 +77,7 @@ To speed up the investigative workflow within the tool:
 * **Machine Learning:** Implementing anomaly detection to find "hidden" risk patterns that simple weighting might miss.
 
 
-**9. Running the Project**
+**8. Running the Project**
 
 1. **Clone this repository** to your desktop using:
 git clone https://github.com/Diana-K-Ogega/Automated-KYC-Risk-Scoring-Model.git
