@@ -4,6 +4,8 @@
 
 In financial crime compliance, manual risk scoring often leads to inconsistent outcomes and "discretionary bias." This project addresses those vulnerabilities by codifying a **Risk-Based Approach (RBA)** directly into a technical framework. The model utilises **automated scoring logic** to evaluate customer profiles against fixed risk pillars, including **PEP status, Jurisdictional Risk,** and **Adverse Media.** By shifting the calculation from manual spreadsheets to a **SQL-driven engine,** the system ensures 100% computational consistency. This creates a reliable audit trail and ensures that **Enhanced Due Diligence (EDD)** triggers are based on objective data thresholds rather than subjective interpretation.
 
+
+
 **2. Skills Demonstrated**
 
 **Domain Expertise:** Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
@@ -11,6 +13,8 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 **Technical Skills:** **SQL** (Data Transformation & CASE logic), **Excel** (Conditional Formatting, **Nested IF Functions,** Data Validation).
 
 **Data Visualisation:** Designing executive-ready compliance reports.
+
+
 
 **3. Key Features**
 
@@ -22,6 +26,8 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 **Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
 
+
+
 **4. Keyboard Shortcuts (Excel Utility)**
 
 To speed up the investigative workflow within the tool:
@@ -32,7 +38,9 @@ To speed up the investigative workflow within the tool:
 
 **F2:** Audit the underlying scoring formula in any cell.
 
-**The Development Process**
+
+
+**5. The Development Process**
 
 **Schema Design:** Defined the risk pillars (Geography, Customer Type, Product).
 
@@ -40,7 +48,9 @@ To speed up the investigative workflow within the tool:
 
 **Front-End Mapping:** Exported SQL results and built a VLOOKUP-driven dashboard in Excel for non-technical users.
 
+
 ![SQL Logic](./sql-logic.png.png) 
+
 
 **Schema (SQLite v3.46)**
 
