@@ -55,3 +55,8 @@ To speed up the investigative workflow within the tool:
 ![Scoring Results](./risk-output.png.png)
 
 
+**6. Professional Insights (What I Learned)**
+
+* **Logic over Syntax:** While the SQL code is vital, the most important part was ensuring the logic aligned with global AML standards (FATF).
+
+* **User-Centric Design:** I learned that data is useless if an investigator cannot interact with it; hence the need for the Excel UI.
