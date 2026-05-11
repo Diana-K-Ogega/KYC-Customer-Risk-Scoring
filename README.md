@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Traditional risk scoring is often slow and prone to human error. This project digitizes the Risk-Based Approach (RBA) by codifying compliance rules into a SQL engine. By replacing manual spreadsheets with automated logic, the model ensures that every customer from PEPs to those in high-risk jurisdictions is scored with 100% consistency. This system provides a bridge between raw data and final investigative decisions, ensuring that Enhanced Due Diligence (EDD) is triggered exactly when the law requires it.
+In financial crime compliance, manual risk scoring often leads to inconsistent outcomes and "discretionary bias." This project addresses those vulnerabilities by codifying a **Risk-Based Approach (RBA)** directly into a technical framework. The model utilizes **automated scoring logic** to evaluate customer profiles against fixed risk pillars, including **PEP status, Jurisdictional Risk,** and **Adverse Media.** By shifting the calculation from manual spreadsheets to a **SQL-driven engine,** the system ensures 100% computational consistency. This creates a reliable audit trail and ensures that **Enhanced Due Diligence (EDD)** triggers are based on objective data thresholds rather than subjective interpretation.
 
 **Skills Demonstrated**
 
