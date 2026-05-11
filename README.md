@@ -52,4 +52,6 @@ To speed up the investigative workflow within the tool:
 ![SQL Logic](./sql-logic.png.png) 
 
 
+![Scoring Results](./risk-output.png.png)
+
 
