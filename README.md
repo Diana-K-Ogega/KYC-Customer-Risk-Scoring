@@ -51,12 +51,43 @@ To speed up the investigative workflow within the tool:
 
 ![SQL Logic](./sql-logic.png.png) 
 
+**Figure 1: Codified Risk Pillars and Weighted Scoring Logic**
+
 
 ![Scoring Results](./risk-output.png.png)
+
+**Figure 2: Automated Risk Tiering Output**
 
 
 **6. Professional Insights (What I Learned)**
 
+
 * **Logic over Syntax:** While the SQL code is vital, the most important part was ensuring the logic aligned with global AML standards (FATF).
 
 * **User-Centric Design:** I learned that data is useless if an investigator cannot interact with it; hence the need for the Excel UI.
+
+
+**Roadmap for Enhancement (Future Improvements)**
+
+
+* **Automation:** Integrating a Python script to scrape "Adverse Media" and feed it into the score.
+
+* **API Connectivity:** Connecting the Excel front-end directly to the SQL database for live updates.
+
+* **Machine Learning:** Implementing anomaly detection to find "hidden" risk patterns that simple weighting might miss.
+
+
+**9. Running the Project**
+
+1. **Clone this repository** to your desktop using:
+git clone https://github.com/Diana-K-Ogega/Automated-KYC-Risk-Scoring-Model.git
+
+2. **Open the Excel file:** Launch KYC_Risk_Scoring_Logic.xlsx to view the front-end dashboard.
+
+3. **Test manual inputs:** Navigate to the "Calculator" tab to see how the risk scores update in real-time.
+
+4. **Review the back-end:** Open the scoring_logic.sql file to audit the underlying SQL infrastructure and CASE statements.
+
+   ![Excel Dashboard](./excel-dashboard.png.png)
+
+   **Figure 3: Interactive Excel Dashboard for Non-Technical Users**
