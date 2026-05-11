@@ -1,20 +1,25 @@
 # KYC-Customer-Risk-Scoring
 
-**Introduction**
+**1. Introduction**
 
 In financial crime compliance, manual risk scoring often leads to inconsistent outcomes and "discretionary bias." This project addresses those vulnerabilities by codifying a **Risk-Based Approach (RBA)** directly into a technical framework. The model utilizes **automated scoring logic** to evaluate customer profiles against fixed risk pillars, including **PEP status, Jurisdictional Risk,** and **Adverse Media.** By shifting the calculation from manual spreadsheets to a **SQL-driven engine,** the system ensures 100% computational consistency. This creates a reliable audit trail and ensures that **Enhanced Due Diligence (EDD)** triggers are based on objective data thresholds rather than subjective interpretation.
 
-**Skills Demonstrated**
+**2. Skills Demonstrated**
 
 **Domain Expertise:** Anti-Money Laundering (**AML**), Know Your Customer (**KYC**), Enhanced Due Diligence (**EDD**), PEP/Sanctions Screening.
+
 **Technical Skills:** **SQL** (Data Transformation & CASE logic), **Excel** (Conditional Formatting, Nested IF Functions, Data Validation).
+
 **Data Visualisation:** Designing executive-ready compliance reports.
 
-**Key Features**
+**3. Key Features**
 
 **Automated Risk Tiering:** Instantly classifies customers into **High,** **Medium,** or **Low** risk.
+
 **Weighted Scoring Logic:** Not all risks are equal; this model weights "Country Risk" differently than "Product Risk."
+
 **EDD Trigger System:** Visual alerts (Red Flags) that notify the user when **Enhanced Due Diligence** is legally required.
+
 **Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
 
 
