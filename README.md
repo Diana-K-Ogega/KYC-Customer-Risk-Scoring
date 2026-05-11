@@ -18,13 +18,13 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 **3. Key Features**
 
-***Automated Risk Tiering:** Instantly classifies customers into **High,** **Medium,** or **Low** risk.
+* **Automated Risk Tiering:** Instantly classifies customers into **High,** **Medium,** or **Low** risk.
 
-***Weighted Scoring Logic:** Not all risks are equal; this model weights "Country Risk" differently than "Product Risk."
+* **Weighted Scoring Logic:** Not all risks are equal; this model weights "Country Risk" differently than "Product Risk."
 
-***EDD Trigger System:** Visual alerts (Red Flags) that notify the user when **Enhanced Due Diligence** is legally required.
+* **EDD Trigger System:** Visual alerts (Red Flags) that notify the user when **Enhanced Due Diligence** is legally required.
 
-***Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
+* **Dynamic Dashboards:** Real-time recalculation of risk scores based on user input.
 
 
 
@@ -32,21 +32,21 @@ In financial crime compliance, manual risk scoring often leads to inconsistent o
 
 To speed up the investigative workflow within the tool:
 
-***Ctrl + Shift + L:** Quickly filter the risk output table.
+* **Ctrl + Shift + L:** Quickly filter the risk output table.
 
-***Alt + A + C:** Clear all filters to see the full customer population.
+* **Alt + A + C:** Clear all filters to see the full customer population.
 
-***F2:** Audit the underlying scoring formula in any cell.
+* **F2:** Audit the underlying scoring formula in any cell.
 
 
 
 **5. The Development Process**
 
-***Schema Design:** Defined the risk pillars (Geography, Customer Type, Product).
+* **Schema Design:** Defined the risk pillars (Geography, Customer Type, Product).
 
-***Logic Implementation:** Wrote CASE statements in SQL to assign numerical values to qualitative data.
+* **Logic Implementation:** Wrote CASE statements in SQL to assign numerical values to qualitative data.
 
-***Front-End Mapping:** Exported SQL results and built a VLOOKUP-driven dashboard in Excel for non-technical users.
+* **Front-End Mapping:** Exported SQL results and built a VLOOKUP-driven dashboard in Excel for non-technical users.
 
 
 ![SQL Logic](./sql-logic.png.png) 
